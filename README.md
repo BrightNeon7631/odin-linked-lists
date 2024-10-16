@@ -32,10 +32,6 @@ I started and finished this project in February 2023.
 - insertAt(value, index): inserts a new node with the provided value at the given index
 - removeAt(index): removes the node at the given index
 
-## Links
-
-[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
-
 ## Screenshots
 
 ![Screenshot](screenshots/screenshot.png)
@@ -44,7 +40,7 @@ I started and finished this project in February 2023.
 
 ```bash
 # clone repo
-git clone
+git clone https://github.com/BrightNeon7631/odin-linked-lists.git
 
 # run script
 node linked-lists.js
